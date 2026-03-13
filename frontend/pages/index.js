@@ -5,7 +5,7 @@ import {
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend
 } from "recharts";
 
-const API = "http://localhost:5001";
+const API = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5001"
 
 const fetcher = (url) => fetch(url).then((r) => r.json());
 
