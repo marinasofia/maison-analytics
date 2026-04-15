@@ -3,7 +3,6 @@
 A synthetic luxury retail intelligence platform built to demonstrate data analytics skills for luxury sector internship applications.
 
 **Stack:** Python · Flask · SQLite · Next.js · Tailwind CSS · Recharts · Railway
-**Live demo:** https://hearty-eagerness-production-4f43.up.railway.app
 
 ---
 
