@@ -4,6 +4,8 @@ A synthetic luxury retail intelligence platform built to demonstrate data analyt
 
 **Stack:** Python · Flask · SQLite · Next.js · Tailwind CSS · Recharts · Railway
 
+**Live demo:** https://hearty-eagerness-production-4f43.up.railway.app
+
 ---
 
 ## What it is
